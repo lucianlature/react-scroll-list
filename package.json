@@ -1,0 +1,16 @@
+{
+  "name": "react-scroll-list",
+  "version": "0.1.0",
+  "description": "React animated scroll list",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "React",
+    "scroll",
+    "list"
+  ],
+  "author": "Lucian Lature",
+  "license": "MIT"
+}
